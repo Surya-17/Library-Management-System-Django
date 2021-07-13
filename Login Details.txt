@@ -1,0 +1,8 @@
+Admin - Surya
+Password - Surya
+
+User 1(Staff) - Percy
+Password - percy12345
+
+User 2(Student) - Jackson
+Password - jackson123456789
